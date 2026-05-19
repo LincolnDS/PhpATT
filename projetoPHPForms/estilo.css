@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }
+.container { background: white; max-width: 400px; margin: 0 auto; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+input, select, textarea { width: 100%; margin-bottom: 12px; padding: 8px; box-sizing: border-box; }
+button { width: 100%; padding: 10px; background: #28a745; color: white; border: none; border-radius: 4px; cursor: pointer; }
+.erro { color: red; font-weight: bold; }
+a { display: inline-block; margin-top: 15px; color: #007bff; text-decoration: none; }
